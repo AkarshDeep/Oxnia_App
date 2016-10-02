@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{F00F81D0-FE5D-4510-B91F-F83A6F2A2605}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/Views/HomeView/HomeView.cs">
+    <Files>
+      <File FileName="iOS/Views/HomeView/HomeView.cs" Line="17" Column="7" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/Akarshdeep/Projects/Oxnia_App/Oxnia_App/ViewModels/HomeViewModel.cs" line="12" column="1" />
+      <Breakpoint file="/Users/Akarshdeep/Projects/Oxnia_App/Oxnia_App/ViewModels/HomeViewModel.cs" line="11" column="1" />
+      <Breakpoint file="/Users/Akarshdeep/Projects/Oxnia_App/iOS/Views/FirstView.cs" line="10" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Oxnia__App.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.09AD338D-9E27-4400-BC36-63CF23D366BF" />
+</Properties>

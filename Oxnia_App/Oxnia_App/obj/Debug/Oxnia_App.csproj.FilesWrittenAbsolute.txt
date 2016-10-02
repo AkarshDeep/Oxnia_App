@@ -1,0 +1,9 @@
+/Users/Akarshdeep/Projects/Oxnia_App/Oxnia_App/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/Akarshdeep/Projects/Oxnia_App/Oxnia_App/bin/Debug/Oxnia_App.dll.mdb
+/Users/Akarshdeep/Projects/Oxnia_App/Oxnia_App/bin/Debug/Oxnia_App.dll
+/Users/Akarshdeep/Projects/Oxnia_App/Oxnia_App/obj/Debug/Oxnia_App.dll
+/Users/Akarshdeep/Projects/Oxnia_App/Oxnia_App/obj/Debug/Oxnia_App.dll.mdb
+/Users/Akarshdeep/Projects/Oxnia_App/Oxnia_App/bin/Debug/MvvmCross.Platform.dll
+/Users/Akarshdeep/Projects/Oxnia_App/Oxnia_App/bin/Debug/MvvmCross.Core.dll
+/Users/Akarshdeep/Projects/Oxnia_App/Oxnia_App/bin/Debug/MvvmCross.Binding.dll
+/Users/Akarshdeep/Projects/Oxnia_App/Oxnia_App/bin/Debug/MvvmCross.Localization.dll
